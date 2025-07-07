@@ -28,13 +28,6 @@ Ingeniero en Estadística y Desarrollador Full-Stack apasionado por la ciencia d
 ## 🌟 Proyectos Destacados
 ### 📊 Análisis del Crecimiento Económico - Región del Maule
 Estudio detallado sobre el desarrollo económico de la Región del Maule, utilizando técnicas estadísticas avanzadas y visualización de datos para comprender patrones y tendencias de crecimiento regional.
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RiveraCristian&show_icons=true&theme=radical&locale=es)
-  
 </div>
 
 ---
