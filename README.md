@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 ¡Hola, soy Cristian Rivera!</h1>
+  <p>Bienvenido/a a mi perfil de GitHub</p>
+</div>
 
-<!--
-**RiveraCristian/RiveraCristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Ingeniero en Estadística y Desarrollador Full-Stack apasionado por la ciencia de datos, el machine learning y la inteligencia artificial. Me dedico a crear soluciones que combinan el poder del análisis estadístico con el desarrollo de aplicaciones modernas.
 
-Here are some ideas to get you started:
+## 💻 Stack Tecnológico
+- **Análisis Estadístico & Ciencia de Datos:**
+  - Python
+  - TensorFlow
+  - PyTorch
+  - scikit-learn
+  - Análisis Estadístico
+  - Modelado Predictivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desarrollo Full-Stack:**
+  - Python
+  - React
+  - Desarrollo Web Moderno
+
+## 🎯 Enfoque Actual
+- 📊 Profundizando en técnicas avanzadas de Machine Learning e IA
+- 📈 Desarrollo de aplicaciones con enfoque en análisis estadístico
+- 🤖 Implementación de soluciones basadas en datos
+
+## 🌟 Proyectos Destacados
+### 📊 Análisis del Crecimiento Económico - Región del Maule
+Estudio detallado sobre el desarrollo económico de la Región del Maule, utilizando técnicas estadísticas avanzadas y visualización de datos para comprender patrones y tendencias de crecimiento regional.
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RiveraCristian&show_icons=true&theme=radical&locale=es)
+  
+</div>
+
+---
+<div align="center">
+  <i>⭐️ No dudes en explorar mis repositorios y marcar con una estrella los proyectos que te parezcan interesantes.</i>
+</div>
