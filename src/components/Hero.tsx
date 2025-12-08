@@ -4,9 +4,9 @@ import { useEffect, useState } from 'react';
 
 const Hero = () => {
   const [displayText, setDisplayText] = useState('');
-  const fullText = 'Data Scientist | Full Stack Developer';
   
   useEffect(() => {
+    const fullText = 'Data Scientist | Full Stack Developer';
     let index = 0;
     const interval = setInterval(() => {
       if (index <= fullText.length) {

@@ -30,7 +30,7 @@ const Contact = () => {
       `Nombre: ${formData.name}\nEmail: ${formData.email}\n\nMensaje:\n${formData.message}`
     )}`;
     
-    window.location.href = mailtoLink;
+    window.open(mailtoLink, '_blank');
     
     setTimeout(() => {
       setIsSubmitting(false);
