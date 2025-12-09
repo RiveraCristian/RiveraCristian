@@ -100,5 +100,20 @@ export const projects: Project[] = [
     ],
     githubUrl: "#",
     image: "https://via.placeholder.com/600x400/3B82F6/FFFFFF?text=Gestion+Seguros"
+  },
+  {
+    id: 7,
+    title: "Juego Educativo de Estadística",
+    description: "Desarrollo de un juego interactivo para enseñar conceptos básicos de estadística a estudiantes",
+    longDescription: "Juego educativo diseñado para facilitar el aprendizaje de conceptos estadísticos a través de actividades interactivas y desafíos.",
+    technologies: ["Unity", "C#", "Blender", "Photoshop"],
+    features: [
+      "Actividades interactivas para aprender estadística",
+      "Desafíos y niveles progresivos",
+      "Gráficos y visualizaciones atractivas",
+      "Feedback inmediato para los jugadores"
+    ],
+    githubUrl: "#",
+    image: "https://via.placeholder.com/600x400/10B981/FFFFFF?text=Juego+Estadistica"
   }
 ];
