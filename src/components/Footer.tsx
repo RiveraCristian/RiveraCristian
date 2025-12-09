@@ -15,7 +15,7 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/RiveraCristian', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://linkedin.com/in/cristian-rivera', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/cristian-rivera-8a6252298/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:rivera.cristian0504@gmail.com', label: 'Email' },
   ];
 

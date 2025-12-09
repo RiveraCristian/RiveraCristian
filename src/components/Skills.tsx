@@ -91,7 +91,7 @@ const Skills = () => {
               whileHover={{ scale: 1.05 }}
               className="bg-gradient-to-br from-primary-light to-blue-600 dark:from-primary-dark dark:to-blue-400 p-6 rounded-lg shadow-lg text-white text-center"
             >
-              <div className="text-4xl font-bold mb-2">4+</div>
+              <div className="text-4xl font-bold mb-2">2+</div>
               <div className="text-lg font-semibold">Años de Experiencia</div>
             </motion.div>
 
